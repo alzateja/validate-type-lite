@@ -1,5 +1,5 @@
 {
-  "name": "js-check-mate",
+  "name": "validate-type-lite",
   "version": "1.0.0",
   "description": "open source package to avoid null check and type errors",
   "main": "index.js",
